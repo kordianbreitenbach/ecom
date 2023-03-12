@@ -10,7 +10,7 @@ import '../App.css';
         <div className="shopTitle">
             <h1>fake kordian shop</h1>
         </div>
-      <Link to='/' >shop</Link>
+      <Link to='/ecom' >shop</Link>
       <Link to='/cart'>
          <ShoppingCart size={32}/> 
       </Link>
