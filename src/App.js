@@ -16,7 +16,7 @@ function App() {
      <Router>
        <Navbar/>
       <Routes>
-   <Route path='/' element={<Shop/>} />
+   <Route path='/ecom' element={<Shop/>} />
     <Route path='/cart' element={<Cart/>}/>
     <Route path="/checkout" element={<Checkout />} />
 
